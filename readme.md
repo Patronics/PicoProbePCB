@@ -6,5 +6,8 @@ A simple, minimal PCB for making a Rasberry Pi Picoprobe, designed for ease of m
 
 
 #### PCB Layout
-![Diagram of PCB Layout](images/Print%20PCB.png)
-![3D render of PCB](images/PicoProbePCB.jpg)
+![Diagram of PCB Layout](images/Print%20PCB.png) ![3D render of PCB](images/PicoProbePCB.jpg)
+
+### Rev 1 Photos
+This single-sided version was machined using my homemade CNC Machine:
+![photo of the PicoProbePCB turned off](images/photo_on.jpeg) ![photo of it turned on](images/photo_on.jpeg)
