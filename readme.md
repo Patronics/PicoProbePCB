@@ -1,5 +1,5 @@
 ## PicoProbePCB
-A simple, minimal PCB for making a Rasberry Pi Picoprobe, designed for ease of machining with a single layer, yet with optional additional features if produced with multi-layer PCBs.  
+A simple, minimal PCB for making a Rasberry Pi Picoprobe, designed for ease of machining with a single layer, yet with optional additional features (A power LED and some power breakouts) if produced as a two-layer PCB.  
 
 #### Schematic
 ![PicoProbe Schematic](images/Print%20Schematic.png)
