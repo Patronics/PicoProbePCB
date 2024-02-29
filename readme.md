@@ -9,5 +9,6 @@ A simple, minimal PCB for making a Rasberry Pi Picoprobe, designed for ease of m
 ### Images
 |   PCB Render   |  Rev 1 single-sided off | Rev 1 single-sided (active)|
 | :---: | :---: | :---:|
-|![3D render of PCB](images/PicoProbePCB.jpg)|![photo of the PicoProbePCB turned off](images/photo_off.jpeg)![photo of it turned on](images/photo_on.jpeg)|
+|![3D render of PCB](images/PicoProbePCB.jpg)|![photo of the PicoProbePCB turned off](images/photo_off.jpeg) |![photo of it turned on](images/photo_on.jpeg)|
+
 The single-sided version was machined using my homemade CNC Machine
