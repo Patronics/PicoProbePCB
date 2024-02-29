@@ -3,7 +3,7 @@ A simple, minimal PCB for making a Rasberry Pi Picoprobe, designed for ease of m
 
 ### Design
 |Schematic   |   PCB Layout   |   Single Layer Layout   |
-|:-------:   |    :------:    |   :-----------------:   |   :---------:  |
+|:-------:   |    :------:    |   :-----------------:   |
 |![PicoProbe Schematic](images/Print%20Schematic.png)|![Diagram of PCB Layout](images/Print%20PCB.png)|![Diagram of Single Layer PCB Layout](images/PrintBackPCB.png)|
 
 ### Images
